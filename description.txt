@@ -1,0 +1,1 @@
+A node that keeps the map block it is in loaded when players are not near by.
